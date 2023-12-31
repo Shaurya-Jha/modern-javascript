@@ -117,3 +117,21 @@ alert(typeof num);
 - The conversion rules:
     - Values that are intuitively "empty", like 0, an empty string, null, undefined, and NaN becomes false.
     - Other values become true.
+
+# Operators
+
+## Terms - unary, binary, operand
+
+- Operand - is what operators are applied to. For instance, in the multiplication of 5 * 2 there are two operands: the left operand is 5 and the right operand is 2. Sometimes, people call these "arguements" instead of "operands".
+- An operand is unary if it has a single operand. For example, the unary negation - reverses the sign of a number.
+- An operator is binary if it has two operands. The same minus exists in binary form as well.
+
+## Maths
+
+- Operations that are supported :
+    1. Addition +
+    2. Subtraction -
+    3. Multiplication *
+    4. Division /
+    5. Remainder %
+    6. Exponentiation **

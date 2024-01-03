@@ -135,3 +135,31 @@ alert(typeof num);
     4. Division /
     5. Remainder %
     6. Exponentiation **
+
+- Bitwise operators
+    1. AND (&)
+    2. OR (|)
+    3. XOR (^)
+    4. NOT (~)
+    5. LEFT SHIFT (<<)
+    6. RIGHT SHIFT (>>)
+    7. ZERO-FILL RIGHT SHIFT (>>>)
+
+# Comparisions
+
+- Greater / less than : a > b, a < b
+- Greater / less than or equal : a >= b, a <= b
+- Equals : a == b
+- Not equal : !=
+
+## Boolean
+- true
+- false
+
+## Strict equality
+- === : checks strict equality
+
+# Conditional branching
+- if statement -> if(condition)
+- boolean conversion : if(0){...} -> 0 is falsy || if(1){...} -> truthy
+- else -> if(...){}else{...}
